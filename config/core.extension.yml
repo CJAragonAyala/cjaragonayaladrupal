@@ -37,6 +37,8 @@ module:
   tome: 0
   tome_base: 0
   tome_static: 0
+  tome_static_cron: 0
+  tome_static_super_cache: 0
   tome_sync: 0
   toolbar: 0
   tour: 0
