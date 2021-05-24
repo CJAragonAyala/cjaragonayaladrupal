@@ -1,0 +1,105 @@
+{
+    "uuid": [
+        {
+            "value": "3e567539-c150-4a74-8d96-766a88d4e144"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "26004ce2-8727-4311-bf0c-e1199ebf8e61"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-05-24T23:01:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "ed88c7a5-b17d-48c5-a897-f0669d56bcfa"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "ed88c7a5-b17d-48c5-a897-f0669d56bcfa"
+        }
+    ],
+    "title": [
+        {
+            "value": "First article. Thanks god!"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-05-24T23:01:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-05-24T23:01:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [],
+    "comment": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 0,
+            "last_comment_name": "",
+            "last_comment_uid": 0,
+            "comment_count": 0
+        }
+    ],
+    "field_image": [],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "48d2134d-a877-4bc6-a26a-92dbf09a569b"
+        }
+    ]
+}
